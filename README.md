@@ -18,6 +18,11 @@ The architecture creates an Azure AI Foundry project with integrated Azure AI se
 
 Instructions are provided for deployment through GitHub Codespaces, VS Code Dev Containers, and your local development environment.
 
+<img width="822" height="991" alt="Screenshot 2025-10-31 at 5 03 30 PM" src="https://github.com/user-attachments/assets/4961baae-1f0f-4bd7-9630-750474f2daea" />
+<img width="822" height="991" alt="Screenshot 2025-10-31 at 5 03 22 PM" src="https://github.com/user-attachments/assets/05193e5e-9cb0-4ea2-8faf-cd52ee79befb" />
+
+
+
 
 
 ### Architecture
